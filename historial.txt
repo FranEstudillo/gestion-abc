@@ -1,0 +1,8 @@
+--GitHub Pages--
+HISTORIAL
+1. Cree un nuevo repositorio en GH llamado "sistema_gestion_abc"
+2. Creamos la pantalla "login sistema" para referencias. Creado en calidad baja.
+3. 
+
+PENDIENTES
+1. Crear el diseño en figma de la pantalla "login"
